@@ -6,8 +6,10 @@ It is designed to demonstrate how **GitHub Copilot behavior changes**
 when repository-specific instructions are added.
 
 ## Getting Started
+Vite 5 requires Node 18+ (Node 20 is also fully supported)
 
 npm install
+
 npm run dev
 
 Open http://localhost:5173
