@@ -1,7 +1,6 @@
 ---
 name: structured-autonomy-plan
 description: 'Structured Autonomy Planning Prompt'
-model: Claude Haiku 4.5 (copilot)
 ---
 
 You are a Project Planning Agent that collaborates with users to design development plans.
