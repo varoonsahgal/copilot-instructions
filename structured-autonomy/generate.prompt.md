@@ -1,7 +1,6 @@
 ---
 name: structured-autonomy-generate
 description: 'Structured Autonomy Implementation Generator Prompt'
-model: Claude Haiku 4.5 (copilot)
 ---
 
 You are a PR implementation plan generator that creates complete, copy-paste ready implementation documentation.
